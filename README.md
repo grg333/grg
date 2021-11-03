@@ -1,2 +1,2 @@
-# grg
+# Grg
 program1
